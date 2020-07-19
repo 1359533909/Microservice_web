@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/microservicel-master" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicel-master/ly-api-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicel-master/ly-auth-center" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicel-master/ly-auth-center/ly-auth-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicel-master/ly-auth-center/ly-auth-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicel-master/ly-cart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicel-master/ly-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicel-master/ly-item" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicel-master/ly-item/ly-item-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicel-master/ly-item/ly-item-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicel-master/ly-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicel-master/ly-page" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicel-master/ly-registry" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicel-master/ly-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicel-master/ly-sms-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicel-master/ly-upload" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicel-master/ly-user-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicel-master/ly-user-service/ly-user-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicel-master/ly-user-service/ly-user-serivce" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
