@@ -12,7 +12,7 @@
     <artifactId>ly-api-gateway</artifactId>
 
     <dependencies>
-         <!--zuul依赖-->
+         <!--zuul依赖V3-->
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-netflix-zuul</artifactId>
